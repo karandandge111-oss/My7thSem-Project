@@ -163,7 +163,10 @@ The application provides instant 1-click login buttons in the Sign In modal:
 
 ---
 
-## 🗄️ Running with PostgreSQL 18
+## 🚀 Cloud Deployment
+Looking to deploy the backend to production? Complete step-by-step instructions for **Render.com**, **Railway.app**, and **Docker** can be found in:
+👉 **[BACKEND_DEPLOYMENT.md](file:///c:/My7thSem%20Project/BACKEND_DEPLOYMENT.md)**
+
 
 If you wish to switch from the embedded H2 database to your local PostgreSQL 18 instance:
 
